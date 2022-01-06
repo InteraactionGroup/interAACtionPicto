@@ -4,6 +4,40 @@
     "typeAWord": "Taper un mot ou une phrase",
     "submit": "Valider",
     "SearchResult": "Résultat pour le mot",
-    "bankImage": "Choisisser la/les banque(s) d'images"
+    "bankImage": "Choisisser la/les banque(s) d'images",
+    "clear": "Effacer",
+    "iwanttohelp": "Je veux aider la recherche et j'accepte que mes données soient traitées, utilisées voire diffusées de manière anonymes",
+    "nopicto" : "Aucun pictogramme n'a été trouvé pour ce mot"
+  },
+  "layout": {
+    "police": "Police",
+    "policesize": "Taille de police",
+    "policeType": "Type de police",
+    "policeColor": "Couleur de police",
+    "Transformation" : "Transformation",
+    "none": "Aucun",
+    "lowercase": "Minuscule",
+    "uppercase": "Majuscule",
+    "capital": "Capitale",
+    "border": "Bordure",
+    "borderType": "Type de bordure",
+    "borderSize": "Taille de bordure",
+    "borderColor": "Couleur de bordure",
+    "writeInPicto": "Ecriture dans le pictogramme",
+    "wordInPicto" : "Mots dans les pictogrammes",
+    "wordOutPicto": "Mots en dehors des pictogrammes",
+    "wordOnPicto": "Mots en bas du pictogramme",
+    "wordUnderPicto": "Mots en haut du pictogramme",
+    "resultSelection": "Résultat de la sélection",
+    "addImage": "Ajouter une image",
+    "createPDF": "Création du PDF",
+    "2picto": "2 pictogrammes par lignes",
+    "3picto": "3 pictogrammes par lignes",
+    "4picto": "4 pictogrammes par lignes",
+    "8picto": "8 pictogrammes par lignes",
+    "generatePDF": "Génération de PDF"
+  },
+  "selectpicto": {
+    "print": "imprimer"
   }
 }

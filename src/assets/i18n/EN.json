@@ -4,6 +4,40 @@
     "typeAWord": "Type a word or a sentence",
     "submit": "Submit",
     "SearchResult": "Result for the word",
-    "bankImage": "Select image bank(s)"
+    "bankImage": "Select image bank(s)",
+    "clear": "Clear",
+    "iwanttohelp": "I want to help research and I accept that my data will be processed, used and distributed in an anonymous way",
+    "nopicto" : "No pictograms were found for this word"
+  },
+  "layout": {
+    "police": "Font",
+    "policesize": "Font size",
+    "policeType": "Type of font",
+    "policeColor": "Font color",
+    "Transformation" : "Transformation",
+    "none": "None",
+    "lowercase": "Lowercase",
+    "uppercase": "Uppercase",
+    "capital": "Capital",
+    "border": "Border",
+    "borderType": "Border type",
+    "borderSize": "Border size",
+    "borderColor": "Border color",
+    "writeInPicto": "Writing in the pictogram",
+    "wordInPicto" : "Words in pictograms",
+    "wordOutPicto": "Words outside the pictograms",
+    "wordOnPicto": "Words at the bottom of the pictogram",
+    "wordUnderPicto": "Words at the top of the pictogram",
+    "resultSelection": "Result of the selection",
+    "addImage": "add an image",
+    "createPDF": "Create a PDF",
+    "2picto": "2 pictograms per row",
+    "3picto": "3 pictograms per row",
+    "4picto": "4 pictograms per row",
+    "8picto": "8 pictograms per row",
+    "generatePDF": "Generate PDF"
+  },
+  "selectpicto": {
+    "print": "print"
   }
 }

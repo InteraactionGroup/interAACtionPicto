@@ -24,9 +24,9 @@
       <br>
       <button class="margin-right" type="submit" mat-raised-button color="primary"
               [disabled]="formText.invalid"> {{'translatePicto.submit' | translate}} </button>
-      <button type="button" class="margin-right" mat-raised-button color="warn" (click)="erase()"> Effacer </button>
+      <button type="button" class="margin-right" mat-raised-button color="warn" (click)="erase()"> {{'translatePicto.clear' | translate}} </button>
       <input #data (change)="dataRegister(data)" type="checkbox" id="data" name="data" value="data">
-      <label for="data"><span class="ui"></span>Je veux aider la recherche et j'accepte que mes données soient traitées, utilisées voire diffusées de manière anonymes</label>
+      <label for="data"><span class="ui"></span>{{'translatePicto.iwanttohelp' | translate}}</label>
     </div>
     <br>
     <div *ngFor="let carousel of result;let index = index">
@@ -39,7 +39,7 @@
         </div>
       </carousel>
       <div class="middle" *ngIf="carousel[0] === 'http://lig-interaactionpicto.imag.fr/api/p/arasaac/10056'">
-        Aucun pictogramme n'a été trouvé pour ce mot
+        {{'translatePicto.nopicto' | translate}}
       </div>
       <br>
     </div>
